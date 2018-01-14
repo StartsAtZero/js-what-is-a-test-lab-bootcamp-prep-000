@@ -4,5 +4,6 @@ var height = 39
 var message = ` is ${height} inches tall`
 if(height < 40){name="Susan";
 }
-else
+else{name="Joe"
+}
 module.exports = {name, height, message}
